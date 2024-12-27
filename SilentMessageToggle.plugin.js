@@ -4,6 +4,7 @@
  * @description Toggles a "@silent " prefix for messages in Discord.
  * @author Zen
  * @authorId 391715612314959872
+ * @source https://github.com/ZenSirzechs/BetterDiscordPlugins/blob/main/SilentMessageToggle.plugin.js
  */
 
 'use strict';
@@ -18,7 +19,8 @@ var manifest = {
     "version": "1.0.1",
     "author": "Zen",
     "authorId": "391715612314959872",
-    "description": "Toggles a \"@silent \" prefix for messages in Discord."
+    "description": "Toggles a \"@silent \" prefix for messages in Discord.",
+    "source": "https://github.com/ZenSirzechs/BetterDiscordPlugins/blob/main/SilentMessageToggle.plugin.js"
 };
 /*@end */
 
